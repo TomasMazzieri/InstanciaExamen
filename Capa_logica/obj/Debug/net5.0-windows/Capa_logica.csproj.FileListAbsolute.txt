@@ -1,0 +1,12 @@
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\bin\Debug\net5.0-windows\Capa_logica.deps.json
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\bin\Debug\net5.0-windows\Capa_logica.dll
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\bin\Debug\net5.0-windows\ref\Capa_logica.dll
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\bin\Debug\net5.0-windows\Capa_logica.pdb
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\obj\Debug\net5.0-windows\Capa_logica.csprojAssemblyReference.cache
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\obj\Debug\net5.0-windows\Capa_logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\obj\Debug\net5.0-windows\Capa_logica.AssemblyInfoInputs.cache
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\obj\Debug\net5.0-windows\Capa_logica.AssemblyInfo.cs
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\obj\Debug\net5.0-windows\Capa_logica.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\obj\Debug\net5.0-windows\Capa_logica.dll
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\obj\Debug\net5.0-windows\ref\Capa_logica.dll
+C:\Users\Tomi\source\repos\CalculadoraFinal\Capa_logica\obj\Debug\net5.0-windows\Capa_logica.pdb
